@@ -29,13 +29,25 @@ export class ConnexionComponent implements OnInit {
     return this.loginForm.controls;
   }
 
+  message: string;
+
   seConnecter(){
     // console.log(this.loginForm.value);
     this.isSubmitted = true;
     if (this.loginForm.invalid) {
       return;
     }
-    this.authService.login(this.formControls.username.value,this.formControls.password.value).subscribe();
-    // this.router.navigateByUrl('/heroes');
+    this.authService.login(this.formControls.username.value,this.formControls.password.value).subscribe(
+      data => {
+        console.log('token: '+data.token)
+      },
+      error => {
+        if (error.status === 401) {
+          this.message = 'Username ou Password incorrect.'
+        }
+        console.log('message: '+error.error.message+' code: '+error.error.code)
+        return
+      }
+    );
   }
 }

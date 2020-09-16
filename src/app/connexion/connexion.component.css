@@ -79,3 +79,10 @@
 .login input[type="submit"]:focus {
   border-color: #05a;
 }
+
+.login_error{
+  text-align: center;
+  background-color: rgb(81, 71, 219);
+  color: white;
+  padding: 15px;
+}

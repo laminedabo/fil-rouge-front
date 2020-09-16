@@ -4,3 +4,4 @@
 [Info  - 06:24:09] Log file: /home/ldab/Bureau/fil-rouge-front/~/root/logs/20200916T062406/exthost1/Angular.ng-template/nglangsvc.log
 [Info  - 06:24:13] Enabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json.
 [Error - 06:24:13] No config file for /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
+[Error - 13:22:00] No config file for /home/ldab/Bureau/fil-rouge-front/src/index.html

@@ -19,7 +19,7 @@ export class AuthService {
   /** POST */
   login(username: string, password: string): Observable<any>{
     return this.http.post<any>(this.authUrl, {username, password}, this.httpOptions).pipe(
-      tap(token => console.log(token))
+      tap(data => localStorage.setItem('token',data.token))
     )
   }
 }
