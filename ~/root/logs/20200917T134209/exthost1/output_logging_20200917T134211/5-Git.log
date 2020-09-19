@@ -1,0 +1,16 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ldab/Bureau/fil-rouge-front
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s b07a62ddc0690ca425c1e3b3d5bbadcc4afec5db
+> git check-ignore -v -z --stdin

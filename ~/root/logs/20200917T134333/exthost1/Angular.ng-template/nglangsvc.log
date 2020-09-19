@@ -1,0 +1,56 @@
+Info 0    [13:43:35.217] Format host information updated
+Info 1    [13:43:35.218] reload projects.
+Info 2    [13:43:35.218] Before ensureProjectForOpenFiles:
+Info 3    [13:43:35.218] After ensureProjectForOpenFiles:
+Info 4    [13:43:35.218] Host file extension mappings updated
+Info 5    [13:43:35.232] Search path: /home/ldab/Bureau/fil-rouge-front/src/app/connexion
+Info 6    [13:43:35.233] For info: /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts :: Config file name: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 7    [13:43:35.233] Opened configuration file /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 8    [13:43:35.303] Config: /home/ldab/Bureau/fil-rouge-front/tsconfig.json : {
+ "rootNames": [
+  "/home/ldab/Bureau/fil-rouge-front/e2e/src/app.e2e-spec.ts",
+  "/home/ldab/Bureau/fil-rouge-front/e2e/src/app.po.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/main.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/polyfills.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/test.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app-routing.module.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app.component.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app.module.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service1.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/environments/environment.prod.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/ldab/Bureau/fil-rouge-front",
+  "outDir": "/home/ldab/Bureau/fil-rouge-front/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/ldab/Bureau/fil-rouge-front/tsconfig.json"
+ }
+}
+Info 9    [13:43:35.313] Loading global plugin @angular/language-service
+Info 10   [13:43:35.313] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [13:43:35.313] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [13:43:35.369] Plugin validation succeded
+Info 13   [13:43:35.373] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 14   [13:43:36.647] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 1 structureChanged: true Elapsed: 1273ms
+Info 15   [13:43:36.647] Project '/home/ldab/Bureau/fil-rouge-front/tsconfig.json' (Configured)
+Info 16   [13:43:36.647] 	Files (40)
+
+Info 17   [13:43:36.647] -----------------------------------------------
+Info 18   [13:43:36.654] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 19   [13:43:36.655] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 20   [13:43:36.656] Disabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.

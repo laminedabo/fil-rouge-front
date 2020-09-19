@@ -1,0 +1,168 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ldab/Bureau/fil-rouge-front
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/jwttoken.service.spec.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git show --textconv :src/app/jwttoken.service.spec.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template

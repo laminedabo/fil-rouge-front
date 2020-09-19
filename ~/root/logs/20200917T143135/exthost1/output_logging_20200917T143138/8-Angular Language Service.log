@@ -1,0 +1,6 @@
+[Info  - 14:31:38] Angular language server process ID: 2921
+[Info  - 14:31:38] Using typescript/lib/tsserverlibrary v4.0.2 from /root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 14:31:38] Using @angular/language-service v10.1.1 from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 14:31:38] Log file: /home/ldab/Documents/fil-rouge-front/~/root/logs/20200917T143135/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 14:31:40] Disabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Error - 14:38:45] No config file for /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service1.ts

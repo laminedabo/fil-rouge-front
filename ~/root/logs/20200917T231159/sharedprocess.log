@@ -1,0 +1,14 @@
+[2020-09-17 23:12:03.089] [sharedprocess] [info] main {"machineId":"70e47962f8db9099b5c32bff5d086a841625d7fc5fd73ad6847e53798bf19d88","windowId":2}
+[2020-09-17 23:12:43.105] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-18 07:44:23.385] [sharedprocess] [info] Installing extension: shyykoserhiy.git-autoconfig
+[2020-09-18 07:44:25.119] [sharedprocess] [info] Downloaded extension: shyykoserhiy.git-autoconfig /home/ldab/Bureau/fil-rouge-front/~/root/CachedExtensionVSIXs/shyykoserhiy.git-autoconfig-0.0.2
+[2020-09-18 07:44:25.166] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.shyykoserhiy.git-autoconfig-0.0.2: shyykoserhiy.git-autoconfig
+[2020-09-18 07:44:25.166] [sharedprocess] [info] Renamed to /root/.vscode/extensions/shyykoserhiy.git-autoconfig-0.0.2
+[2020-09-18 07:44:25.166] [sharedprocess] [info] Installation completed. shyykoserhiy.git-autoconfig
+[2020-09-18 07:44:25.170] [sharedprocess] [info] Extensions installed successfully: shyykoserhiy.git-autoconfig
+[2020-09-18 14:43:45.684] [sharedprocess] [info] Installing extension: johnpapa.angular2
+[2020-09-18 14:43:51.392] [sharedprocess] [info] Downloaded extension: johnpapa.angular2 /home/ldab/Bureau/fil-rouge-front/~/root/CachedExtensionVSIXs/johnpapa.angular2-9.1.2
+[2020-09-18 14:43:51.455] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.johnpapa.angular2-9.1.2: johnpapa.angular2
+[2020-09-18 14:43:51.455] [sharedprocess] [info] Renamed to /root/.vscode/extensions/johnpapa.angular2-9.1.2
+[2020-09-18 14:43:51.455] [sharedprocess] [info] Installation completed. johnpapa.angular2
+[2020-09-18 14:43:51.458] [sharedprocess] [info] Extensions installed successfully: johnpapa.angular2

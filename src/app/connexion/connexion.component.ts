@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { AuthService } from '../auth.service';
+import { JWTTokenService } from '../jwttoken.service';
+import { subscribeOn } from 'rxjs/operators';
 
 @Component({
   selector: 'app-connexion',
@@ -16,7 +18,9 @@ export class ConnexionComponent implements OnInit {
   constructor(
     private authService: AuthService,
     private formBuilder: FormBuilder,
-    private router: Router) { }
+    private router: Router,
+    private jwtService: JWTTokenService
+    ) { }
 
   ngOnInit(): void {
     this.loginForm = this.formBuilder.group({
@@ -40,6 +44,8 @@ export class ConnexionComponent implements OnInit {
     this.authService.login(this.formControls.username.value,this.formControls.password.value).subscribe(
       data => {
         console.log('token: '+data.token)
+        this.jwtService.setToken(data.token)
+        console.log('Expire: '+this.jwtService.getExpiryTime())
       },
       error => {
         if (error.status === 401) {
@@ -47,6 +53,11 @@ export class ConnexionComponent implements OnInit {
         }
         console.log('message: '+error.error.message+' code: '+error.error.code)
         return
+      }
+    );
+    this.authService.getProfils().subscribe(
+      error => {
+        console.log(error)
       }
     );
   }

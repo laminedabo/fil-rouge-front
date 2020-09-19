@@ -1,5 +1,11 @@
 {
     "window.zoomLevel": 2,
     "editor.renameOnType": true,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "git-autoconfig.configList": [
+        {
+            "user.email": "laminedabo88@gmail.com",
+            "user.name": "laminedabo"
+        }
+    ]
 }

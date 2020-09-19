@@ -1,0 +1,5 @@
+[Info  - 23:12:02] Angular language server process ID: 4374
+[Info  - 23:12:02] Using typescript/lib/tsserverlibrary v4.0.2 from /root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 23:12:02] Using @angular/language-service v10.1.1 from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 23:12:02] Log file: /home/ldab/Bureau/fil-rouge-front/~/root/logs/20200917T231159/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 23:12:07] Enabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json.

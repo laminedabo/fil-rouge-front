@@ -18,8 +18,11 @@ export class AuthService {
 
   /** POST */
   login(username: string, password: string): Observable<any>{
-    return this.http.post<any>(this.authUrl, {username, password}, this.httpOptions).pipe(
-      tap(data => localStorage.setItem('token',data.token))
-    )
+    return this.http.post<any>(this.authUrl, {username, password}, this.httpOptions)
+  }
+
+  /**GET */
+  getProfils(): Observable<any>{// essai get profil
+    return this.http.get('http://127.0.0.1:8000/api/admin/profils', this.httpOptions)
   }
 }

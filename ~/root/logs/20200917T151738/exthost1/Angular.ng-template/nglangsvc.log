@@ -1,0 +1,287 @@
+Info 0    [15:17:50.281] Format host information updated
+Info 1    [15:17:50.281] reload projects.
+Info 2    [15:17:50.281] Before ensureProjectForOpenFiles:
+Info 3    [15:17:50.281] After ensureProjectForOpenFiles:
+Info 4    [15:17:50.281] Host file extension mappings updated
+Info 5    [15:17:50.289] Search path: /home/ldab/Bureau/fil-rouge-front/src/app
+Info 6    [15:17:50.290] For info: /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts :: Config file name: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 7    [15:17:50.290] Opened configuration file /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 8    [15:17:50.402] Config: /home/ldab/Bureau/fil-rouge-front/tsconfig.json : {
+ "rootNames": [
+  "/home/ldab/Bureau/fil-rouge-front/e2e/src/app.e2e-spec.ts",
+  "/home/ldab/Bureau/fil-rouge-front/e2e/src/app.po.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/main.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/polyfills.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/test.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app-routing.module.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app.component.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/app.module.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/environments/environment.prod.ts",
+  "/home/ldab/Bureau/fil-rouge-front/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/ldab/Bureau/fil-rouge-front",
+  "outDir": "/home/ldab/Bureau/fil-rouge-front/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "downlevelIteration": true,
+  "experimentalDecorators": true,
+  "moduleResolution": 2,
+  "importHelpers": true,
+  "target": 2,
+  "module": 6,
+  "lib": [
+   "lib.es2018.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/ldab/Bureau/fil-rouge-front/tsconfig.json"
+ }
+}
+Info 9    [15:17:50.933] Loading global plugin @angular/language-service
+Info 10   [15:17:50.934] Enabling plugin @angular/language-service from candidate paths: /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js,/root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [15:17:50.934] Loading @angular/language-service from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [15:17:50.991] Plugin validation succeded
+Info 13   [15:17:51.27] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 14   [15:17:53.966] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 1 structureChanged: true Elapsed: 2939ms
+Info 15   [15:17:53.966] Project '/home/ldab/Bureau/fil-rouge-front/tsconfig.json' (Configured)
+Info 16   [15:17:53.966] 	Files (424)
+
+Info 17   [15:17:53.966] -----------------------------------------------
+Info 18   [15:17:53.978] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 19   [15:17:53.994] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 16ms
+Info 20   [15:17:53.994] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 21   [15:17:53.994] 	Files (2)
+
+Info 22   [15:17:53.994] -----------------------------------------------
+Info 23   [15:17:53.995] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 24   [15:17:53.997] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 2 structureChanged: false Elapsed: 2ms
+Info 25   [15:17:54.2] Search path: /home/ldab/Bureau/fil-rouge-front/src/app
+Info 26   [15:17:54.2] For info: /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts :: Config file name: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 27   [15:17:55.4] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 28   [15:17:55.5] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio
+Info 29   [15:17:55.6] Elapsed:: 2ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 30   [15:17:55.6] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 31   [15:17:55.6] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio
+Info 32   [15:17:55.6] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/.org.chromium.Chromium.VBfjio 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 33   [15:17:55.6] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/TransportSecurity 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 34   [15:17:55.8] Elapsed:: 2ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/TransportSecurity 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 35   [15:17:55.295] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 36   [15:17:55.295] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 3 structureChanged: false Elapsed: 0ms
+Info 37   [15:17:55.295] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 38   [15:17:57.508] Before ensureProjectForOpenFiles:
+Info 39   [15:17:57.508] After ensureProjectForOpenFiles:
+Info 40   [15:18:3.331] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 41   [15:18:3.332] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 42   [15:18:3.332] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 43   [15:18:3.333] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 44   [15:18:3.333] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 45   [15:18:3.334] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 46   [15:18:3.699] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 47   [15:18:3.700] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 4 structureChanged: true Elapsed: 1ms
+Info 48   [15:18:3.700] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 49   [15:18:4.173] Search path: /home/ldab/Bureau/fil-rouge-front/src/app
+Info 50   [15:18:4.173] For info: /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts :: Config file name: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 51   [15:18:5.833] Before ensureProjectForOpenFiles:
+Info 52   [15:18:5.834] After ensureProjectForOpenFiles:
+Info 53   [15:18:7.368] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 54   [15:18:7.368] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 55   [15:18:7.368] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 56   [15:18:7.368] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 57   [15:18:7.369] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 58   [15:18:7.369] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 59   [15:18:8.57] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 60   [15:18:8.148] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 5 structureChanged: true Elapsed: 91ms
+Info 61   [15:18:8.149] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 62   [15:18:8.743] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 63   [15:18:8.743] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 64   [15:18:8.743] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front/src 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Failed Lookup Locations
+Info 65   [15:18:8.744] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.spec.ts 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front/src 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Failed Lookup Locations
+Info 66   [15:18:9.11] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 67   [15:18:9.11] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 6 structureChanged: false Elapsed: 0ms
+Info 68   [15:18:9.955] Search path: /home/ldab/Bureau/fil-rouge-front/src/app
+Info 69   [15:18:9.955] For info: /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts :: Config file name: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 70   [15:18:11.244] Before ensureProjectForOpenFiles:
+Info 71   [15:18:11.244] After ensureProjectForOpenFiles:
+Info 72   [15:18:40.106] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 73   [15:18:40.106] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 74   [15:18:40.106] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 75   [15:18:40.106] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 76   [15:18:40.106] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 77   [15:18:40.106] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 78   [15:19:38.112] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 79   [15:19:38.224] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 7 structureChanged: true Elapsed: 112ms
+Info 80   [15:19:38.224] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 81   [15:19:38.518] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 82   [15:19:38.559] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 8 structureChanged: false Elapsed: 41ms
+Info 83   [15:19:38.559] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 84   [15:19:38.831] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 85   [15:19:38.868] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 9 structureChanged: false Elapsed: 37ms
+Info 86   [15:19:38.868] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 87   [15:19:39.253] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 88   [15:19:39.309] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 10 structureChanged: false Elapsed: 55ms
+Info 89   [15:19:39.310] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 90   [15:19:40.644] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 91   [15:19:40.645] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 92   [15:19:40.645] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 93   [15:19:40.645] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 94   [15:19:40.645] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 95   [15:19:40.646] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 96   [15:19:40.646] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 97   [15:19:40.646] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 98   [15:19:40.646] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 99   [15:19:40.646] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 3:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 100  [15:19:40.647] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 101  [15:19:40.647] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 3:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 102  [15:20:40.127] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 103  [15:20:40.128] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 104  [15:20:40.128] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 105  [15:20:40.128] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 106  [15:20:40.128] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 107  [15:20:40.128] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 108  [15:21:28.851] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 109  [15:21:28.889] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 11 structureChanged: false Elapsed: 37ms
+Info 110  [15:21:28.890] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 111  [15:21:30.282] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 112  [15:21:30.334] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 12 structureChanged: false Elapsed: 52ms
+Info 113  [15:21:30.334] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 114  [15:21:40.236] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 115  [15:21:40.237] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 116  [15:21:40.237] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 117  [15:21:40.237] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 118  [15:21:40.238] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 119  [15:21:40.238] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 120  [15:21:47.504] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 121  [15:21:47.549] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 13 structureChanged: false Elapsed: 45ms
+Info 122  [15:21:47.549] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 123  [15:21:48.523] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 124  [15:21:48.555] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 14 structureChanged: false Elapsed: 32ms
+Info 125  [15:21:48.555] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 126  [15:21:52.752] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 127  [15:21:52.814] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 15 structureChanged: false Elapsed: 61ms
+Info 128  [15:21:52.814] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 129  [15:22:5.240] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 130  [15:22:5.304] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 16 structureChanged: false Elapsed: 64ms
+Info 131  [15:22:5.304] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 132  [15:22:7.489] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 133  [15:22:7.540] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 17 structureChanged: false Elapsed: 51ms
+Info 134  [15:22:7.540] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 135  [15:22:11.427] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 136  [15:22:11.475] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 18 structureChanged: false Elapsed: 48ms
+Info 137  [15:22:11.475] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 138  [15:22:34.997] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 139  [15:22:35.62] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 19 structureChanged: false Elapsed: 65ms
+Info 140  [15:22:35.62] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 141  [15:22:40.225] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 142  [15:22:40.225] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 143  [15:22:40.225] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 144  [15:22:40.225] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 145  [15:22:40.226] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 146  [15:22:40.226] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 147  [15:23:3.381] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 148  [15:23:3.384] Elapsed:: 3ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 149  [15:23:3.384] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 150  [15:23:3.384] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 151  [15:23:3.384] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 152  [15:23:3.385] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 153  [15:23:3.650] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 154  [15:23:3.650] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 20 structureChanged: false Elapsed: 0ms
+Info 155  [15:23:5.885] Before ensureProjectForOpenFiles:
+Info 156  [15:23:5.886] After ensureProjectForOpenFiles:
+Info 157  [15:23:40.254] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 158  [15:23:40.255] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 159  [15:23:40.255] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 160  [15:23:40.255] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 161  [15:23:40.256] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 162  [15:23:40.256] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 163  [15:25:40.260] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 164  [15:25:40.261] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 165  [15:25:40.261] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 166  [15:25:40.261] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 167  [15:25:40.262] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 168  [15:25:40.262] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 169  [15:26:8.146] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 170  [15:26:8.170] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 21 structureChanged: false Elapsed: 24ms
+Info 171  [15:26:8.170] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 172  [15:26:8.569] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 173  [15:26:8.596] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 22 structureChanged: false Elapsed: 27ms
+Info 174  [15:26:8.596] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 175  [15:26:9.932] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 176  [15:26:9.963] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 23 structureChanged: false Elapsed: 31ms
+Info 177  [15:26:9.963] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 178  [15:26:13.104] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 179  [15:26:13.154] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 24 structureChanged: false Elapsed: 50ms
+Info 180  [15:26:13.154] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 181  [15:26:18.274] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 182  [15:26:18.313] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 25 structureChanged: false Elapsed: 39ms
+Info 183  [15:26:18.313] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 184  [15:26:20.372] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 185  [15:26:20.437] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 26 structureChanged: false Elapsed: 65ms
+Info 186  [15:26:20.437] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 187  [15:26:21.795] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 188  [15:26:21.847] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 27 structureChanged: false Elapsed: 51ms
+Info 189  [15:26:21.847] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 190  [15:26:23.143] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 191  [15:26:23.175] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 28 structureChanged: false Elapsed: 32ms
+Info 192  [15:26:23.175] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 193  [15:26:23.404] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 194  [15:26:23.463] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 29 structureChanged: false Elapsed: 59ms
+Info 195  [15:26:23.463] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 196  [15:26:24.50] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 197  [15:26:24.88] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 30 structureChanged: false Elapsed: 38ms
+Info 198  [15:26:24.89] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 199  [15:26:24.394] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 200  [15:26:24.446] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 31 structureChanged: false Elapsed: 52ms
+Info 201  [15:26:24.446] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 202  [15:26:25.357] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 203  [15:26:25.391] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 32 structureChanged: false Elapsed: 34ms
+Info 204  [15:26:25.391] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 205  [15:26:25.447] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 206  [15:26:25.447] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 207  [15:26:25.447] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 208  [15:26:25.447] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 209  [15:26:25.447] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 210  [15:26:25.447] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 211  [15:26:29.102] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 212  [15:26:29.138] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 33 structureChanged: false Elapsed: 36ms
+Info 213  [15:26:29.138] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 214  [15:26:40.262] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 215  [15:26:40.263] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 216  [15:26:40.263] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 217  [15:26:40.263] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 218  [15:26:40.263] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 219  [15:26:40.263] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 220  [15:26:42.786] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 221  [15:26:42.825] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 34 structureChanged: false Elapsed: 39ms
+Info 222  [15:26:42.825] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 223  [15:26:46.326] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 224  [15:26:46.388] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 35 structureChanged: false Elapsed: 62ms
+Info 225  [15:26:46.388] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 226  [15:26:48.364] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 227  [15:26:48.420] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 36 structureChanged: false Elapsed: 56ms
+Info 228  [15:26:48.420] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 229  [15:27:40.245] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 230  [15:27:40.246] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 231  [15:27:40.246] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 232  [15:27:40.246] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 233  [15:27:40.246] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 234  [15:27:40.246] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 235  [15:28:3.384] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 236  [15:28:3.385] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 237  [15:28:3.385] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 238  [15:28:3.386] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/temp-index 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 239  [15:28:3.386] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 240  [15:28:3.386] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/Cache/index-dir/the-real-index 2:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 241  [15:28:3.649] Starting updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json
+Info 242  [15:28:3.649] Finishing updateGraphWorker: Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Version: 37 structureChanged: false Elapsed: 0ms
+Info 243  [15:28:5.887] Before ensureProjectForOpenFiles:
+Info 244  [15:28:5.887] After ensureProjectForOpenFiles:
+Info 245  [15:28:40.265] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 246  [15:28:40.266] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 247  [15:28:40.266] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 0:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 248  [15:28:40.266] DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
+Info 249  [15:28:40.266] Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json Detected file add/remove of non supported extension: /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal
+Info 250  [15:28:40.266] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/ldab/Bureau/fil-rouge-front/~/root/User/workspaceStorage/08ad774c6b856e965e9c79c0a5725184/state.vscdb-journal 1:: WatchInfo: /home/ldab/Bureau/fil-rouge-front 1 undefined Project: /home/ldab/Bureau/fil-rouge-front/tsconfig.json WatchType: Wild card directory
