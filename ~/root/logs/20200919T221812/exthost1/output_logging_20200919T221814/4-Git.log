@@ -194,3 +194,87 @@ Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remote
 > git show --textconv :src/app/httpinterceptor.service.ts
 > git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ldab/Bureau/fil-rouge-front/.git/refs/remotes/origin/fil_rouge_front_ldab', is most likely packed.
+> git config --get commit.template
+> git push origin fil_rouge_front_ldab:fil_rouge_front_ldab
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:570:14)
+    at Socket.socketOnEnd (_http_client.js:440:23)
+    at Socket.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  code: 'ECONNRESET'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/laminedabo/fil-rouge-front.git/'
+> git push origin fil_rouge_front_ldab:fil_rouge_front_ldab
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/laminedabo/fil-rouge-front.git/'
+> git pull --tags origin fil_rouge_front_ldab
+From https://github.com/laminedabo/fil-rouge-front
+ * branch            fil_rouge_front_ldab -> FETCH_HEAD
+> git push origin fil_rouge_front_ldab:fil_rouge_front_ldab
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/httpinterceptor.service.ts
+To https://github.com/laminedabo/fil-rouge-front.git
+   3a080e2..924c157  fil_rouge_front_ldab -> fil_rouge_front_ldab
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git config --get commit.template
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
