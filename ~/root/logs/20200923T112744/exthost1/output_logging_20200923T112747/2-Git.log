@@ -1,0 +1,957 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ldab/Bureau/fil-rouge-front
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.html
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
+> git cat-file -s 3e58da3ef7d99f47b58f53938382b16ac81ed3dd
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/auth.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts
+> git cat-file -s c2756c73eba36c30b1f90ba8e91d83994a7c3cd4
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.css
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.css
+> git cat-file -s ffe9c3ff59cc75d5fb86b58bd0b157f0323a724b
+> git show --textconv :src/app/connexion/connexion.component.html
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
+> git cat-file -s 3e58da3ef7d99f47b58f53938382b16ac81ed3dd
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/auth.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts
+> git cat-file -s c2756c73eba36c30b1f90ba8e91d83994a7c3cd4
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git show --textconv :src/app/local-storage.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/local-storage.service.ts
+> git cat-file -s d63b6bff436d32c351478474dc7b59146537e938
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/local-storage.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/local-storage.service.ts
+> git cat-file -s d63b6bff436d32c351478474dc7b59146537e938
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git show --textconv :src/app/auth.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts
+> git cat-file -s c2756c73eba36c30b1f90ba8e91d83994a7c3cd4
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/local-storage.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/local-storage.service.ts
+> git cat-file -s d63b6bff436d32c351478474dc7b59146537e938
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/jwttoken.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/jwttoken.service.ts
+> git cat-file -s be36aa0508ecc933be458558dafde3f490079481
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/app.module.ts
+> git cat-file -s 7b07a614d7016b1a2a169c19ff3cdc9ca74a4b57
+> git show --textconv :src/app/auth.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/auth.service.ts
+> git cat-file -s c2756c73eba36c30b1f90ba8e91d83994a7c3cd4
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15

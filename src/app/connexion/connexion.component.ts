@@ -45,7 +45,7 @@ export class ConnexionComponent implements OnInit {
       data => {
         console.log('token: '+data.token)
         this.jwtService.setToken(data.token)
-        console.log('Expire: '+this.jwtService.getExpiryTime())
+        console.log('Expire: '+this.jwtService.isTokenExpired())
       },
       error => {
         if (error.status === 401) {

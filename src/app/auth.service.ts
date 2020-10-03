@@ -21,7 +21,7 @@ export class AuthService {
     return this.http.post<any>(this.authUrl, {username, password}, this.httpOptions)
   }
 
-  /**GET */
+  /** GET */
   getProfils(): Observable<any>{// essai get profil
     return this.http.get('http://127.0.0.1:8000/api/admin/profils', this.httpOptions)
   }

@@ -1,0 +1,41 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ldab/Bureau/fil-rouge-front
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/httpinterceptor.service.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/httpinterceptor.service.ts
+> git cat-file -s f9932ef68d8b2c9fe64b83788c9723055f969b15
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse fil_rouge_front_ldab
+> git rev-parse --symbolic-full-name fil_rouge_front_ldab@{u}
+> git rev-list --left-right fil_rouge_front_ldab...refs/remotes/origin/fil_rouge_front_ldab
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/app.component.ts
+> git cat-file -s 04edfdd6116f3fe29fe0d4cbac2f04cef43628de
+> git show --textconv :src/index.html
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/index.html
+> git cat-file -s 3d91b3effcc416e7856d9a0f6ed18dcf7a35c6a6
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/app.component.html
+> git cat-file -s 77495a8fd99ab2a535360307311b7a007c951db7
+> git show --textconv :src/app/connexion/connexion.component.ts
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.ts
+> git cat-file -s ba38cd236939f991712c41cfc609ea1bb672c575
+> git show --textconv :src/app/connexion/connexion.component.html
+> git ls-files --stage -- /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
+> git cat-file -s 3e58da3ef7d99f47b58f53938382b16ac81ed3dd
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

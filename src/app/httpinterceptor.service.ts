@@ -2,8 +2,9 @@ import { Injectable } from '@angular/core';
 import { HttpInterceptor, HttpEvent, HttpHandler, HttpRequest, HttpResponse, HttpErrorResponse, HttpEventType } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-import { LocalStorageService } from './local-storage.service';
+import { JWTTokenService } from './jwttoken.service';
 import { map } from 'rxjs/operators';
+import { Router } from '@angular/router';
 
 
 @Injectable({
@@ -11,11 +12,16 @@ import { map } from 'rxjs/operators';
 })
 export class HTTPInterceptorService implements HttpInterceptor{
 
-  constructor( private localStorage: LocalStorageService) { }
+  constructor( private jwtService: JWTTokenService, private router: Router) { }
 
   intercept(request: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>>{
-    const token = this.localStorage.get('token');
+    const token = this.jwtService.getToken();
     if (token !== null) {
+      if (this.jwtService.isTokenExpired()) {
+        console.log('expired token');
+        this.router.navigateByUrl('/login');
+        // return
+      }
       request = request.clone({ headers: request.headers.set('Authorization', 'Bearer ' + token) });    
     }
 

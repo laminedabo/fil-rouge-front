@@ -1,8 +1,0 @@
-[Info  - 22:31:27] Angular language server process ID: 2856
-[Info  - 22:31:27] Using typescript/lib/tsserverlibrary v4.0.2 from /root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
-[Info  - 22:31:27] Using @angular/language-service v10.1.1 from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
-[Info  - 22:31:27] Log file: /home/ldab/Bureau/fil-rouge-front/~/root/logs/20200915T223124/exthost1/Angular.ng-template/nglangsvc.log
-[Info  - 22:31:31] Enabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json.
-[Error - 22:31:33] No config file for /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
-[Error - 01:06:09] No config file for /home/ldab/Bureau/fil-rouge-front/src/index.html
-[Error - 01:38:53] No config file for /home/ldab/Bureau/fil-rouge-front/src/index.html

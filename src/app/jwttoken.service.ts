@@ -24,6 +24,10 @@ export class JWTTokenService {
     }
   }
 
+  getToken(){
+    return this.localStrage.get('token');
+  }
+
   decodeToken(){
     if (this.jwtToken) {
       this.decodedToken =  this.helper.decodeToken(this.jwtToken);

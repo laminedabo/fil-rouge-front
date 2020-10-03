@@ -1,0 +1,7 @@
+[Info  - 11:27:48] Angular language server process ID: 10762
+[Info  - 11:27:48] Using typescript/lib/tsserverlibrary v4.0.2 from /root/.vscode/extensions/angular.ng-template-0.1001.0/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 11:27:48] Using @angular/language-service v10.1.1 from /root/.vscode/extensions/angular.ng-template-0.1001.0/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 11:27:48] Log file: /home/ldab/Bureau/fil-rouge-front/~/root/logs/20200923T112744/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 11:27:52] Enabling language service for /home/ldab/Bureau/fil-rouge-front/tsconfig.json.
+[Error - 11:27:52] No config file for /home/ldab/Bureau/fil-rouge-front/src/app/connexion/connexion.component.html
+[Error - 14:31:38] No config file for /home/ldab/Bureau/fil-rouge-front/node_modules/rxjs/internal/operators/map.d.ts
